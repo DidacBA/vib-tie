@@ -47,8 +47,6 @@ const main = () => {
       tagName: 'canvas',
       attributes: {
         id: 'canvas',
-        width: '100%',
-        height: '100%'
       },
     }));
 
